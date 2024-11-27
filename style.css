@@ -1,0 +1,48 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: #333;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Banner Image Styling */
+.banner {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Screenshot Image Styling */
+.screenshot {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Button Styling */
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
